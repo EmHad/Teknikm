@@ -15,6 +15,7 @@ namespace Teknikdemo
             string k = "Andra ändring i Git";
             string l = "Ändring i VS";
             string m = "Ändring i GIT";
+            string f = "Version 1";
         }
     }
 }
