@@ -11,6 +11,7 @@ namespace Teknikdemo
         static void Main(string[] args)
         {
             string s = "Hej";
+            string t = "Ändring från GIT";
         }
     }
 }
