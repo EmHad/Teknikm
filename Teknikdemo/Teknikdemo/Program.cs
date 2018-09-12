@@ -13,6 +13,7 @@ namespace Teknikdemo
             string s = "Hej";
             string t = "Ändring från GIT";
             string k = "Andra ändring i Git";
+            string m = "Ändring i GIT";
         }
     }
 }
